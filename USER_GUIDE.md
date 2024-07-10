@@ -1,4 +1,4 @@
-# FATX Renamer User Guide
+# FATX360 User Guide
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -11,21 +11,21 @@
 
 ## Introduction
 
-FATX Renamer is a Python application with a graphical user interface (GUI) that allows users to rename files and folders to be compatible with the FATX file system. This tool is particularly useful for users working with Xbox systems or other platforms that use the FATX file system.
+FATX360 is a Python application with a graphical user interface (GUI) that allows users to rename files and folders to be compatible with the FATX file system. This tool is particularly useful for users working with Xbox systems or other platforms that use the FATX file system.
 
 ## Installation
 
 1. Ensure you have Python 3.x installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
-2. Save the `fatx_renamer.py` script to your local machine.
+2. Save the `fatx360.py` script to your local machine.
 3. No additional libraries are required as the application uses Python's standard libraries.
 
 ## Getting Started
 
-To run the FATX Renamer:
+To run the FATX360:
 
 1. Open a command prompt or terminal.
-2. Navigate to the directory containing `fatx_renamer.py`.
-3. Run the command: `python fatx_renamer.py`
+2. Navigate to the directory containing `fatx360.py`.
+3. Run the command: `python fatx360.py`
 
 The application window should appear, ready for use.
 

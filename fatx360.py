@@ -27,7 +27,7 @@ class Application(tk.Frame):
     def __init__(self, master=None):
         super().__init__(master)
         self.master = master
-        self.master.title("FATX360")
+        self.master.title("FATX360 v1.2")
         self.master.geometry("500x400")
         self.pack(fill=tk.BOTH, expand=True)
         self.create_widgets()

@@ -1,16 +1,18 @@
 # FATX360
 
-FATX360 is a Python application with a graphical user interface (GUI) that allows users to easily rename files and folders to be compatible with the FATX file system. This tool is particularly useful for users working with Xbox systems or other platforms that use the FATX file system.
+FATX360 is a Python application with a graphical user interface (GUI) that allows users to easily rename files and folders to be compatible with the FATX file system. This tool is particularly useful for users working with Xbox 360 systems or other platforms that use the FATX file system.
 
 ## Features
 
 - Select a directory to rename files and folders
 - Choose specific files or folders for renaming
 - "Select All" functionality for easy batch selection
-- Option to rename folders only without affecting their contents
-- Rename items to be FATX compatible (42 character limit, restricted character set)
+- Option to rename top-level folders only
+- Option to rename subfolders with customizable depth
+- Option to rename files
 - Copy renamed items to a new directory, preserving the original files
 - Progress bar to track the renaming process
+- Cancel operation functionality
 - Error handling for various scenarios
 
 ## Installation
@@ -39,14 +41,6 @@ FATX360 is a Python application with a graphical user interface (GUI) that allow
 
 For detailed usage instructions, please refer to the [User Guide](USER_GUIDE.md).
 
-## Quick Start
-
-1. Click "Select Directory" to choose the folder containing files to rename.
-2. Select files/folders in the list (use "Select All" for batch selection).
-3. (Optional) Check "Rename folders only" to leave file names unchanged.
-4. Click "Rename Selected" and choose a destination for the renamed items.
-5. Monitor the progress bar and wait for the success message.
-
 ## Contributing
 
 Contributions to FATX360 are welcome! Please feel free to submit a Pull Request.
@@ -59,10 +53,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to all contributors who have helped to improve this tool.
 - Special thanks to the Python community for providing excellent documentation and libraries.
-
-## Contact
-
-If you have any questions, feel free to open an issue or contact the repository owner.
 
 ---
 

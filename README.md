@@ -22,7 +22,7 @@ FATX360 is a Python application with a graphical user interface (GUI) that allow
 2. Clone this repository or download the `fatx360.py` file.
 
    ```
-   https://github.com/midnightroachmedia/FATX360.git
+   git https://github.com/midnightroachmedia/FATX360.git
    ```
 
 3. No additional libraries are required as the application uses Python's standard libraries.

@@ -15,9 +15,9 @@ FATX360 is a Python application with a graphical user interface (GUI) that allow
 - Cancel operation functionality
 - Error handling for various scenarios
 
-##Video Tutorial
+## Video Tutorial
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eiZ5bUae45E?si=Koiod_-Sy7y4_uzk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![TUTORIAL](https://img.youtube.com/vi/eiZ5bUae45E/0.jpg)](https://www.youtube.com/watch?v=eiZ5bUae45E)
 
 ## Installation
 
